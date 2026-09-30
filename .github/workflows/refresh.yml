@@ -1,6 +1,12 @@
 name: Refresh sunbed locations
 
 on:
+  push:
+    branches: ["main"]
+    paths:
+      - ".github/workflows/refresh.yml"
+      - "discover_sunbeds.py"
+      - "requirements.txt"
   workflow_dispatch:
   schedule:
     - cron: "23 5 3 * *"
