@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Sunbed Competitor Map</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.css" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.js"></script>
+<style>
+  html,body{height:100%;margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;background:#f6f6f6}
+  #map{height:100%;width:100%}
+  .panel{position:absolute;top:12px;right:12px;z-index:1000;background:#fff;padding:14px 16px;border-radius:12px;box-shadow:0 2px 14px rgba(0,0,0,.18);font-size:14px;width:270px}
+  .panel h3{margin:0 0 5px;font-size:17px}
+  .panel .sub{font-size:12px;color:#666;line-height:1.35;margin-bottom:10px}
+  .panel .row{display:flex;align-items:center;justify-content:space-between;margin:8px 0 5px}
+  .panel input[type=range]{width:100%}
+  .panel label{display:flex;align-items:center;gap:7px;margin-top:10px}
+  #status{position:absolute;bottom:12px;left:12px;z-index:1000;background:#fff;padding:7px 10px;border-radius:7px;font-size:12px;box-shadow:0 1px 7px rgba(0,0,0,.15)}
+  .popup-meta{font-size:12px;color:#666;line-height:1.45;margin-top:4px}
+  .popup-link{display:inline-block;margin-top:6px}
+</style>
+</head>
+<body>
+<div id="map"></div>
+
+<div class="panel">
+  <h3>Sunbed competitor map</h3>
+  <div class="sub">UV tanning / sunbed locations found from Google Places. All relevant businesses use the same pin.</div>
+  <div class="row"><span>Competition radius</span><strong id="radiusVal">3 km</strong></div>
+  <input type="range" id="radiusSlider" min="0" max="10000" step="250" value="3000">
+  <label><input type="checkbox" id="toggleCircles" checked> Show radius circles</label>
+</div>
+
+<div id="status">Loading locations…</div>
+
+<script>
+const map=L.map('map').setView([51.42,-0.35],10);
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{
+  maxZoom:19,
+  attribution:'&copy; OpenStreetMap contributors'
+}).addTo(map);
+
+const markerLayer=L.layerGroup().addTo(map);
+const radiusLayer=L.layerGroup().addTo(map);
+let radius=3000;
+
+const CHAINS=[
+  ["Indigo Sun",["indigo sun"]],
+  ["Consol",["consol"]],
+  ["The Tanning Shop",["the tanning shop","tanning shop"]],
+  ["The SunShine Co.",["the sunshine co","sunshine co"]],
+  ["Tango'd",["tango'd","tangod","tango’d"]],
+  ["Kwik Tan",["kwik tan","kwiktan"]],
+  ["Lextan",["lextan"]]
+];
+
+function norm(s){
+  return (s||"").toLowerCase().replace(/[’']/g,"").replace(/\s+/g," ").trim();
+}
+function chainName(name){
+  const n=norm(name);
+  for(const [label,aliases] of CHAINS){
+    if(aliases.some(a=>n.includes(norm(a)))) return label;
+  }
+  return "";
+}
+function mapsUrl(s){
+  return s.google_maps_uri || ("https://www.google.com/maps/search/?api=1&query="+encodeURIComponent((s.name||"")+" "+(s.address||"")));
+}
+function popup(s){
+  const chain=chainName(s.name);
+  const rating=s.rating ? `${s.rating}★${s.user_rating_count ? " · "+s.user_rating_count+" reviews" : ""}` : "No rating captured";
+  return `<b>${s.name||"Unnamed location"}</b><br>${s.address||""}
+    <div class="popup-meta">${chain ? chain+"<br>" : ""}${rating}</div>
+    <a class="popup-link" href="${mapsUrl(s)}" target="_blank" rel="noopener">Open in Google Maps</a>`;
+}
+function render(){
+  markerLayer.clearLayers();
+  radiusLayer.clearLayers();
+  const stores=window._stores||[];
+  const showCircles=document.getElementById("toggleCircles").checked;
+  stores.forEach(s=>{
+    if(s.lat==null||s.lng==null) return;
+    if(showCircles && radius>0){
+      L.circle([s.lat,s.lng],{
+        radius,
+        color:"#7c3aed",
+        fillColor:"#7c3aed",
+        fillOpacity:.035,
+        weight:0,
+        interactive:false
+      }).addTo(radiusLayer);
+    }
+    L.circleMarker([s.lat,s.lng],{
+      radius:6,
+      color:"#fff",
+      fillColor:"#7c3aed",
+      fillOpacity:1,
+      weight:1.5
+    }).bindPopup(popup(s)).addTo(markerLayer);
+  });
+}
+document.getElementById("radiusSlider").addEventListener("input",e=>{
+  radius=parseInt(e.target.value);
+  document.getElementById("radiusVal").textContent=(radius/1000).toFixed(radius%1000===0?0:1)+" km";
+  render();
+});
+document.getElementById("toggleCircles").addEventListener("change",render);
+
+async function load(){
+  const status=document.getElementById("status");
+  try{
+    const res=await fetch("stores.json?v="+Date.now());
+    if(!res.ok) throw new Error("Could not load stores");
+    const data=await res.json();
+    window._stores=Array.isArray(data)?data:(data.stores||[]);
+    render();
+
+    const valid=window._stores.filter(s=>s.lat!=null&&s.lng!=null);
+    if(valid.length){
+      map.fitBounds(L.latLngBounds(valid.map(s=>[s.lat,s.lng])),{padding:[30,30]});
+    }
+    const chains=valid.filter(s=>chainName(s.name)).length;
+    const updated=data.generated_at ? " · updated "+new Date(data.generated_at).toLocaleDateString() : "";
+    status.textContent=`${valid.length} locations · ${chains} recognised chain sites${updated}`;
+  }catch(err){
+    status.textContent="Location data has not been generated yet";
+    console.error(err);
+  }
+}
+load();
+</script>
+</body>
+</html>
