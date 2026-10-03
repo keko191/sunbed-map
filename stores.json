@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T17:37:58.884874+00:00",
+  "generated_at": "2026-10-03T10:36:00.839585+00:00",
   "search_bounds": {
     "lat_min": 50.95,
     "lat_max": 51.8,
@@ -19,11 +19,11 @@
       "google_maps_uri": "https://maps.google.com/?cid=952185662367078514&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
       "types": [
+        "tanning_studio",
         "hair_salon",
         "hair_care",
-        "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -40,8 +40,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -76,8 +76,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "beauty_salon",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -94,14 +94,14 @@
       "business_status": "OPERATIONAL",
       "types": [
         "beauty_salon",
-        "tanning_studio",
         "nail_salon",
-        "hair_care",
         "massage",
+        "hair_care",
+        "tanning_studio",
         "medical_clinic",
         "health",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -118,8 +118,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -136,8 +136,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -154,8 +154,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -181,6 +181,26 @@
         "body_art_service",
         "medical_clinic",
         "health",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "place_id": "ChIJ3-ECVB9U30cR6_gc3NmkYIE",
+      "name": "All About U",
+      "address": "5, High St, Westerham TN16 1AH",
+      "lat": 51.2669564,
+      "lng": 0.0697662,
+      "rating": 4.9,
+      "user_rating_count": 35,
+      "website_uri": "https://westerhambeauty.co.uk/",
+      "google_maps_uri": "https://maps.google.com/?cid=9322632484264671467&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "business_status": "OPERATIONAL",
+      "types": [
+        "beauty_salon",
+        "nail_salon",
+        "tanning_studio",
         "service",
         "point_of_interest",
         "establishment"
@@ -220,7 +240,7 @@
       "lat": 51.2864449,
       "lng": 0.4974229,
       "rating": 4.8,
-      "user_rating_count": 25,
+      "user_rating_count": 26,
       "website_uri": null,
       "google_maps_uri": "https://maps.google.com/?cid=9039735188872793856&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
@@ -228,6 +248,33 @@
         "tanning_studio",
         "point_of_interest",
         "service",
+        "establishment"
+      ]
+    },
+    {
+      "place_id": "ChIJxVKZ0IIBdkgRa5HoMuk8ZQg",
+      "name": "Allure The Nail & Lash Studio & Tearoom",
+      "address": "5, Wayside, Field Way, New Addington, Croydon CR0 9DX",
+      "lat": 51.3557882,
+      "lng": -0.0208782,
+      "rating": 4.7,
+      "user_rating_count": 15,
+      "website_uri": "https://m.facebook.com/profile.php?id=100063508572636#_=_",
+      "google_maps_uri": "https://maps.google.com/?cid=604956697230348651&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "business_status": "OPERATIONAL",
+      "types": [
+        "nail_salon",
+        "tanning_studio",
+        "coffee_shop",
+        "cafe",
+        "beauty_salon",
+        "massage",
+        "food_store",
+        "spa",
+        "store",
+        "service",
+        "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -266,14 +313,14 @@
       "types": [
         "beauty_salon",
         "nail_salon",
-        "massage",
-        "hair_care",
         "tanning_studio",
+        "hair_care",
+        "massage",
+        "store",
         "medical_clinic",
         "health",
-        "store",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -313,8 +360,8 @@
         "nail_salon",
         "tanning_studio",
         "beauty_salon",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -337,24 +384,6 @@
       ]
     },
     {
-      "place_id": "ChIJ3xZ1kPQFdkgRC8bn1NMQz0Y",
-      "name": "Angela Tanning & Beauty",
-      "address": "Clapham Junction, 33 St John's Hl, Greater, London SW11 1TT",
-      "lat": 51.462925899999995,
-      "lng": -0.17005789999999998,
-      "rating": null,
-      "user_rating_count": null,
-      "website_uri": null,
-      "google_maps_uri": "https://maps.google.com/?cid=5102315404830164491&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "business_status": "OPERATIONAL",
-      "types": [
-        "beauty_salon",
-        "service",
-        "point_of_interest",
-        "establishment"
-      ]
-    },
-    {
       "place_id": "ChIJX_X1MvOn2EcR0Kf_I-MZk2g",
       "name": "Angels Beauty Salon",
       "address": "10 Church St, London E15 3HX",
@@ -367,10 +396,10 @@
       "business_status": "OPERATIONAL",
       "types": [
         "beauty_salon",
-        "nail_salon",
-        "hair_salon",
-        "hair_care",
         "tanning_studio",
+        "hair_salon",
+        "nail_salon",
+        "hair_care",
         "service",
         "point_of_interest",
         "establishment"
@@ -391,8 +420,8 @@
         "nail_salon",
         "tanning_studio",
         "beauty_salon",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -409,8 +438,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -441,27 +470,47 @@
       ]
     },
     {
+      "place_id": "ChIJx1Dmdyn3dUgREJgmJTdxHJ4",
+      "name": "Asad Barber & Tanning Salon",
+      "address": "30 Godstone Rd, Lingfield RH7 6BW",
+      "lat": 51.1755673,
+      "lng": -0.0207592,
+      "rating": 5,
+      "user_rating_count": 123,
+      "website_uri": "http://asadbarber.co.uk/",
+      "google_maps_uri": "https://maps.google.com/?cid=11393105639000938512&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "business_status": "OPERATIONAL",
+      "types": [
+        "barber_shop",
+        "hair_care",
+        "health",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ]
+    },
+    {
       "place_id": "ChIJw76DDUWo2EcRdA5QziKm4L8",
       "name": "Aspire Hair & Beauty",
       "address": "68-70 Charlton Church Ln, London SE7 7AB",
       "lat": 51.4850342,
       "lng": 0.0329235,
       "rating": 4.8,
-      "user_rating_count": 400,
+      "user_rating_count": 401,
       "website_uri": "http://www.aspirehairandbeauty.co.uk/",
       "google_maps_uri": "https://maps.google.com/?cid=13826233524447874676&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
       "types": [
         "beauty_salon",
-        "massage_spa",
         "nail_salon",
-        "massage",
+        "massage_spa",
+        "tanning_studio",
         "hair_salon",
         "hair_care",
-        "tanning_studio",
+        "massage",
         "spa",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -472,7 +521,7 @@
       "lat": 51.516723,
       "lng": -0.07438789999999999,
       "rating": 4.6,
-      "user_rating_count": 559,
+      "user_rating_count": 560,
       "website_uri": "http://www.attractionacademy.co.uk/",
       "google_maps_uri": "https://maps.google.com/?cid=14856594141094710829&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
@@ -498,7 +547,7 @@
       "lat": 51.653625399999996,
       "lng": -0.39252549999999997,
       "rating": 3.6,
-      "user_rating_count": 236,
+      "user_rating_count": 237,
       "website_uri": "https://auratanandbeauty.com/",
       "google_maps_uri": "https://maps.google.com/?cid=18221240680408018510&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
@@ -519,8 +568,8 @@
       "address": "300 Chiswick High Rd., Chiswick, London W4 1NP",
       "lat": 51.4926301,
       "lng": -0.2606756,
-      "rating": 4.8,
-      "user_rating_count": 6,
+      "rating": 4.9,
+      "user_rating_count": 17,
       "website_uri": "https://www.aveleine.com/",
       "google_maps_uri": "https://maps.google.com/?cid=17333014397268702959&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
@@ -544,8 +593,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "beauty_salon",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -562,18 +611,18 @@
       "business_status": "OPERATIONAL",
       "types": [
         "skin_care_clinic",
-        "wellness_center",
         "massage_spa",
-        "massage",
-        "hair_care",
         "tanning_studio",
+        "wellness_center",
+        "hair_care",
+        "massage",
         "spa",
         "beauty_salon",
+        "educational_institution",
         "medical_clinic",
         "health",
-        "educational_institution",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -596,64 +645,18 @@
       ]
     },
     {
-      "place_id": "ChIJ597iv88QdkgR1U-nnUIclNA",
-      "name": "Bamboo spa",
-      "address": "83 Church Rd, London NW4 4DP",
-      "lat": 51.589753699999996,
-      "lng": -0.22245969999999998,
-      "rating": 4.2,
-      "user_rating_count": 121,
-      "website_uri": null,
-      "google_maps_uri": "https://maps.google.com/?cid=15029668928880594901&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "business_status": "OPERATIONAL",
-      "types": [
-        "massage_spa",
-        "tanning_studio",
-        "hair_care",
-        "massage",
-        "spa",
-        "beauty_salon",
-        "point_of_interest",
-        "service",
-        "establishment"
-      ]
-    },
-    {
       "place_id": "ChIJ9Ui79lY_dkgRkS8Ue4facIs",
       "name": "Banùs Beds ltd",
       "address": "Banùs beds ltd, Albert Bygrave Retail Park, N Orbital Rd, St Albans AL2 1DL",
       "lat": 51.7309658,
       "lng": -0.3073999,
       "rating": 5,
-      "user_rating_count": 55,
+      "user_rating_count": 59,
       "website_uri": "https://www.google.com/url?q=https://www.banusbeds.com/&sa=U&sqi=2&ved=2ahUKEwiRl8GwwcGWAxVnOPsDHSJhJXsQFnoECCwQAQ&usg=AOvVaw0_NOeRxA-fawdi3AjZrZSj",
       "google_maps_uri": "https://maps.google.com/?cid=10047771044083937169&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "point_of_interest",
-        "service",
-        "establishment"
-      ]
-    },
-    {
-      "place_id": "ChIJB029_M6FdkgRgUDDoU68bzA",
-      "name": "Barber Crew",
-      "address": "5 Church St, Twyford, Reading RG10 9DR",
-      "lat": 51.477370699999994,
-      "lng": -0.8664294,
-      "rating": 4.9,
-      "user_rating_count": 253,
-      "website_uri": "http://barbercrew.co.uk/",
-      "google_maps_uri": "https://maps.google.com/?cid=3490215282142822529&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "business_status": "OPERATIONAL",
-      "types": [
-        "barber_shop",
-        "tanning_studio",
-        "hair_salon",
-        "hair_care",
-        "beauty_salon",
-        "health",
         "point_of_interest",
         "service",
         "establishment"
@@ -693,8 +696,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -722,6 +725,26 @@
       ]
     },
     {
+      "place_id": "ChIJBzVyZHEBdkgR7DGcscw8bYk",
+      "name": "Bax Hair Design",
+      "address": "197 Maple Rd, London SE20 8HU",
+      "lat": 51.41557530000001,
+      "lng": -0.0546042,
+      "rating": 4.9,
+      "user_rating_count": 30,
+      "website_uri": null,
+      "google_maps_uri": "https://maps.google.com/?cid=9902638005508387308&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "business_status": "OPERATIONAL",
+      "types": [
+        "tanning_studio",
+        "hair_salon",
+        "hair_care",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ]
+    },
+    {
       "place_id": "ChIJi43mbfkTdkgRtGzSkpsVX7U",
       "name": "BB",
       "address": "19 Dukes Ave, Harrow HA1 1XP",
@@ -735,19 +758,19 @@
       "types": [
         "skin_care_clinic",
         "massage_spa",
-        "tanning_studio",
+        "massage",
         "hair_salon",
         "hair_care",
-        "massage",
+        "tanning_studio",
         "spa",
         "beauty_salon",
-        "manufacturer",
         "body_art_service",
-        "store",
         "medical_clinic",
         "health",
-        "point_of_interest",
+        "store",
+        "manufacturer",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -826,8 +849,8 @@
       "types": [
         "tanning_studio",
         "beauty_salon",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -880,14 +903,14 @@
       "business_status": "OPERATIONAL",
       "types": [
         "beauty_salon",
-        "tanning_studio",
-        "nail_salon",
-        "hair_care",
         "massage_spa",
+        "nail_salon",
         "massage",
+        "hair_care",
+        "tanning_studio",
         "spa",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -906,8 +929,8 @@
         "cosmetics_store",
         "tanning_studio",
         "store",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -918,7 +941,7 @@
       "lat": 51.5812095,
       "lng": -0.0769127,
       "rating": 4.5,
-      "user_rating_count": 86,
+      "user_rating_count": 87,
       "website_uri": "https://beautica-hair-beauty.mytreatwell.co.uk/#contact",
       "google_maps_uri": "https://maps.google.com/?cid=7166419428979291273&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
@@ -944,10 +967,10 @@
       "business_status": "OPERATIONAL",
       "types": [
         "beauty_salon",
-        "massage",
+        "tanning_studio",
         "hair_salon",
         "hair_care",
-        "tanning_studio",
+        "massage",
         "service",
         "point_of_interest",
         "establishment"
@@ -989,18 +1012,18 @@
       "types": [
         "store",
         "fitness_center",
-        "gym",
         "nail_salon",
-        "marketing_consultant",
-        "massage",
-        "hair_care",
         "tanning_studio",
+        "gym",
+        "hair_care",
+        "massage",
+        "marketing_consultant",
         "beauty_salon",
-        "sports_activity_location",
         "consultant",
+        "sports_activity_location",
         "health",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -1028,16 +1051,16 @@
       "address": "252 Oxlow Ln, Dagenham RM10 7YX",
       "lat": 51.5510105,
       "lng": 0.1551652,
-      "rating": 4.2,
-      "user_rating_count": 66,
+      "rating": 4.1,
+      "user_rating_count": 67,
       "website_uri": null,
       "google_maps_uri": "https://maps.google.com/?cid=4656120413406078867&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
         "beauty_salon",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -1096,11 +1119,11 @@
       "business_status": "OPERATIONAL",
       "types": [
         "beauty_salon",
+        "tanning_studio",
         "hair_salon",
         "hair_care",
-        "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -1117,11 +1140,35 @@
       "business_status": "OPERATIONAL",
       "types": [
         "beauty_salon",
-        "beautician",
         "nail_salon",
         "tanning_studio",
-        "service",
+        "beautician",
         "point_of_interest",
+        "service",
+        "establishment"
+      ]
+    },
+    {
+      "place_id": "ChIJPUh-8TMTdkgRWzMko93Cfj0",
+      "name": "Beauty by Neeta",
+      "address": "240 Ruislip Rd, Greenford UB6 9RS",
+      "lat": 51.532534,
+      "lng": -0.36813819999999997,
+      "rating": 4.8,
+      "user_rating_count": 103,
+      "website_uri": "https://beautybyneeta.co.uk/",
+      "google_maps_uri": "https://maps.google.com/?cid=4431193340559766363&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "business_status": "OPERATIONAL",
+      "types": [
+        "beauty_salon",
+        "skin_care_clinic",
+        "nail_salon",
+        "tanning_studio",
+        "hair_care",
+        "medical_clinic",
+        "health",
+        "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -1190,18 +1237,18 @@
       "lat": 51.7601205,
       "lng": -0.010709699999999999,
       "rating": 4.9,
-      "user_rating_count": 659,
+      "user_rating_count": 660,
       "website_uri": "https://www.phorest.com/salon/beautyheaven1",
       "google_maps_uri": "https://maps.google.com/?cid=11138000791770533552&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
       "types": [
         "skin_care_clinic",
+        "nail_salon",
         "tanning_studio",
         "hair_salon",
-        "nail_salon",
         "hair_care",
-        "body_art_service",
         "beauty_salon",
+        "body_art_service",
         "medical_clinic",
         "health",
         "point_of_interest",
@@ -1244,10 +1291,10 @@
       "types": [
         "beauty_salon",
         "nail_salon",
-        "hair_care",
         "tanning_studio",
-        "service",
+        "hair_care",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -1300,31 +1347,13 @@
       ]
     },
     {
-      "place_id": "ChIJ1RdvPgADdkgRmah02vtWTrA",
-      "name": "Beauty tanning",
-      "address": "114 Cheltenham Rd, London SE15 3AR",
-      "lat": 51.456357999999994,
-      "lng": -0.051031599999999996,
-      "rating": null,
-      "user_rating_count": null,
-      "website_uri": null,
-      "google_maps_uri": "https://maps.google.com/?cid=12704187238560606361&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "business_status": "OPERATIONAL",
-      "types": [
-        "tanning_studio",
-        "point_of_interest",
-        "service",
-        "establishment"
-      ]
-    },
-    {
       "place_id": "ChIJM9AUX2cEdkgRwAcAs_aWzds",
       "name": "BeautyPac Beauty & Massage Salon",
       "address": "166 Stockwell Rd, London SW9 9TQ",
       "lat": 51.466914599999996,
       "lng": -0.1176033,
-      "rating": 4.7,
-      "user_rating_count": 174,
+      "rating": 4.6,
+      "user_rating_count": 175,
       "website_uri": "http://www.beautypac.co.uk/",
       "google_maps_uri": "https://maps.google.com/?cid=15838481450841147328&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
@@ -1391,8 +1420,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -1425,7 +1454,7 @@
       "lat": 51.512541899999995,
       "lng": -0.3083009,
       "rating": 4.7,
-      "user_rating_count": 648,
+      "user_rating_count": 647,
       "website_uri": "http://www.bellabellostudio.co.uk/",
       "google_maps_uri": "https://maps.google.com/?cid=14966428575421882887&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
@@ -1461,8 +1490,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "beauty_salon",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -1479,8 +1508,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "beauty_salon",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -1497,8 +1526,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "beauty_salon",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -1534,8 +1563,8 @@
       "types": [
         "tanning_studio",
         "wholesaler",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -1614,8 +1643,8 @@
         "beauty_salon",
         "nail_salon",
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -1679,8 +1708,8 @@
         "beautician",
         "makeup_artist",
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -1697,8 +1726,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -1715,8 +1744,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -1733,8 +1762,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -1751,8 +1780,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -1771,8 +1800,8 @@
         "beauty_salon",
         "nail_salon",
         "tanning_studio",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -1790,14 +1819,14 @@
       "types": [
         "beauty_salon",
         "nail_salon",
-        "massage",
-        "hair_care",
         "tanning_studio",
+        "hair_care",
+        "massage",
+        "educational_institution",
         "medical_clinic",
         "health",
-        "educational_institution",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -1816,8 +1845,8 @@
         "tanning_studio",
         "nail_salon",
         "beauty_salon",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -1835,8 +1864,8 @@
       "types": [
         "tanning_studio",
         "beauty_salon",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -1897,12 +1926,12 @@
       "business_status": "OPERATIONAL",
       "types": [
         "beauty_salon",
-        "beautician",
         "tanning_studio",
+        "beautician",
         "wholesaler",
         "store",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -1960,8 +1989,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -1978,8 +2007,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -2014,8 +2043,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "beauty_salon",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -2050,8 +2079,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -2104,8 +2133,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -2139,8 +2168,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -2157,8 +2186,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -2175,8 +2204,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -2265,26 +2294,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
-        "establishment"
-      ]
-    },
-    {
-      "place_id": "ChIJ-wfcZM1-uisRID0Xp2v0m5A",
-      "name": "Brown Cow Spray Tans",
-      "address": "19 Beechway, Bexley DA5 3DQ",
-      "lat": 51.446954,
-      "lng": 0.1241925,
-      "rating": 5,
-      "user_rating_count": 1,
-      "website_uri": null,
-      "google_maps_uri": "https://maps.google.com/?cid=10420190906053770528&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "business_status": "OPERATIONAL",
-      "types": [
-        "tanning_studio",
         "service",
-        "point_of_interest",
         "establishment"
       ]
     },
@@ -2319,8 +2330,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -2372,12 +2383,12 @@
       "google_maps_uri": "https://maps.google.com/?cid=4044402837882563869&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
       "types": [
+        "tanning_studio",
         "hair_salon",
         "hair_care",
-        "tanning_studio",
         "beauty_salon",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -2431,8 +2442,8 @@
       "types": [
         "hair_salon",
         "hair_care",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -2467,11 +2478,11 @@
       "business_status": "OPERATIONAL",
       "types": [
         "beauty_salon",
+        "tanning_studio",
         "hair_salon",
         "hair_care",
-        "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -2505,17 +2516,17 @@
       "google_maps_uri": "https://maps.google.com/?cid=6552004591087497726&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
       "types": [
-        "makeup_artist",
-        "beautician",
         "nail_salon",
+        "makeup_artist",
+        "tanning_studio",
         "hair_salon",
         "hair_care",
-        "tanning_studio",
+        "beautician",
         "beauty_salon",
         "medical_clinic",
         "health",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -2600,11 +2611,11 @@
       "google_maps_uri": "https://maps.google.com/?cid=1523147826551602086&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
       "types": [
+        "tanning_studio",
         "hair_salon",
         "hair_care",
-        "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -2658,8 +2669,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -2731,14 +2742,14 @@
       "types": [
         "skin_care_clinic",
         "massage_spa",
-        "massage",
         "tanning_studio",
+        "massage",
         "spa",
         "beauty_salon",
         "medical_clinic",
         "health",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -2816,8 +2827,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -2845,8 +2856,8 @@
       "address": "Unit 209 Marlowes, Hemel Hempstead HP1 1DX",
       "lat": 51.7494116,
       "lng": -0.47244159999999996,
-      "rating": 3.7,
-      "user_rating_count": 3,
+      "rating": 4,
+      "user_rating_count": 4,
       "website_uri": "https://www.clubtan.net/en/shopsen/hemel-hempstead/",
       "google_maps_uri": "https://maps.google.com/?cid=12449334214741990532&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
@@ -2870,8 +2881,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -2888,8 +2899,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -2906,8 +2917,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -2978,8 +2989,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -2996,8 +3007,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -3032,8 +3043,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -3050,8 +3061,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -3068,8 +3079,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -3106,8 +3117,8 @@
         "makeup_artist",
         "tanning_studio",
         "beauty_salon",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -3185,8 +3196,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -3221,8 +3232,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -3239,32 +3250,12 @@
       "business_status": "OPERATIONAL",
       "types": [
         "beauty_salon",
-        "tanning_studio",
         "nail_salon",
-        "hair_care",
         "massage_spa",
+        "tanning_studio",
+        "hair_care",
         "massage",
         "spa",
-        "point_of_interest",
-        "service",
-        "establishment"
-      ]
-    },
-    {
-      "place_id": "ChIJ99xo-D6x2EcRbYJHpRl-8F8",
-      "name": "DayDreams Nails and Beauty",
-      "address": "28 Spital St, Dartford DA1 2DR",
-      "lat": 51.4446659,
-      "lng": 0.2152709,
-      "rating": 4.4,
-      "user_rating_count": 85,
-      "website_uri": "https://www.daydreamsnailsandbeauty.co.uk/",
-      "google_maps_uri": "https://maps.google.com/?cid=6913164076625920621&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "business_status": "OPERATIONAL",
-      "types": [
-        "nail_salon",
-        "tanning_studio",
-        "beauty_salon",
         "point_of_interest",
         "service",
         "establishment"
@@ -3283,15 +3274,15 @@
       "business_status": "OPERATIONAL",
       "types": [
         "beauty_salon",
-        "beautician",
-        "tanning_studio",
-        "massage_spa",
         "skin_care_clinic",
+        "massage_spa",
+        "tanning_studio",
         "massage",
-        "medical_clinic",
         "spa",
-        "health",
+        "beautician",
         "store",
+        "medical_clinic",
+        "health",
         "point_of_interest",
         "service",
         "establishment"
@@ -3310,15 +3301,15 @@
       "business_status": "OPERATIONAL",
       "types": [
         "beauty_salon",
-        "tanning_studio",
-        "nail_salon",
-        "hair_care",
         "skin_care_clinic",
+        "nail_salon",
         "massage",
+        "hair_care",
+        "tanning_studio",
         "medical_clinic",
         "health",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -3354,8 +3345,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -3410,10 +3401,10 @@
       "business_status": "OPERATIONAL",
       "types": [
         "beauty_salon",
-        "skin_care_clinic",
-        "nail_salon",
-        "massage",
         "tanning_studio",
+        "nail_salon",
+        "skin_care_clinic",
+        "massage",
         "medical_clinic",
         "health",
         "service",
@@ -3470,8 +3461,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -3495,6 +3486,26 @@
       ]
     },
     {
+      "place_id": "ChIJNx1jSzFqdkgRRRbqyKexukc",
+      "name": "Edge Salon Croxley",
+      "address": "3, The Grn, Croxley Green, Rickmansworth WD3 3AN",
+      "lat": 51.6466797,
+      "lng": -0.45592950000000004,
+      "rating": 4.6,
+      "user_rating_count": 31,
+      "website_uri": null,
+      "google_maps_uri": "https://maps.google.com/?cid=5168638856549504581&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "business_status": "OPERATIONAL",
+      "types": [
+        "hair_salon",
+        "tanning_studio",
+        "hair_care",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ]
+    },
+    {
       "place_id": "ChIJIQQDzwQOdkgRC1OxmkpvQQM",
       "name": "Effekt",
       "address": "4 Market Pl, London W3 6QS",
@@ -3507,10 +3518,10 @@
       "business_status": "OPERATIONAL",
       "types": [
         "hair_salon",
-        "tanning_studio",
         "hair_care",
-        "point_of_interest",
+        "tanning_studio",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -3527,8 +3538,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -3545,8 +3556,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -3556,16 +3567,16 @@
       "address": "N-7, Laurie Walk, Romford RM1 3RT",
       "lat": 51.579043299999995,
       "lng": 0.1838829,
-      "rating": 2.9,
-      "user_rating_count": 141,
+      "rating": 2.8,
+      "user_rating_count": 140,
       "website_uri": "http://www.elegancebeautyltd.com/",
       "google_maps_uri": "https://maps.google.com/?cid=13698016177356405794&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
       "types": [
         "beauty_salon",
+        "nail_salon",
         "tanning_studio",
         "hair_salon",
-        "nail_salon",
         "hair_care",
         "spa",
         "point_of_interest",
@@ -3580,7 +3591,7 @@
       "lat": 51.502558099999995,
       "lng": -0.243159,
       "rating": 4.3,
-      "user_rating_count": 45,
+      "user_rating_count": 46,
       "website_uri": "https://elegancebeautysb.com/",
       "google_maps_uri": "https://maps.google.com/?cid=8476416338661384137&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
@@ -3633,13 +3644,13 @@
       "google_maps_uri": "https://maps.google.com/?cid=16452598961821703720&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
       "types": [
-        "tanning_studio",
+        "massage",
         "hair_salon",
         "hair_care",
-        "massage",
+        "tanning_studio",
         "spa",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -3674,8 +3685,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "beauty_salon",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -3692,8 +3703,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -3711,18 +3722,18 @@
       "types": [
         "skin_care_clinic",
         "massage_spa",
-        "massage",
+        "tanning_studio",
         "hair_salon",
         "hair_care",
-        "tanning_studio",
+        "massage",
         "spa",
         "beauty_salon",
         "body_art_service",
+        "store",
         "medical_clinic",
         "health",
-        "store",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -3739,8 +3750,31 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
+        "establishment"
+      ]
+    },
+    {
+      "place_id": "ChIJGdA0ioSt2EcR00Hxp5kN8HQ",
+      "name": "Ellis Taylor Beauty",
+      "address": "204 Upton Rd S, Bexley DA5 1QT",
+      "lat": 51.446061199999995,
+      "lng": 0.140516,
+      "rating": 4.7,
+      "user_rating_count": 12,
+      "website_uri": "https://www.ellistaylorbeauty.co.uk/",
+      "google_maps_uri": "https://maps.google.com/?cid=8426249856408961491&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "business_status": "OPERATIONAL",
+      "types": [
+        "beauty_salon",
+        "nail_salon",
+        "makeup_artist",
+        "tanning_studio",
+        "hair_care",
+        "massage",
+        "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -3758,8 +3792,8 @@
       "types": [
         "hair_salon",
         "hair_care",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -3783,29 +3817,56 @@
       ]
     },
     {
+      "place_id": "ChIJeebYGAMEdkgRMNrkbsq2F_g",
+      "name": "Emmy's at Salon 382",
+      "address": "382 Norwood Rd, Norwood, London SE27 9AA",
+      "lat": 51.433617,
+      "lng": -0.103887,
+      "rating": 4.6,
+      "user_rating_count": 19,
+      "website_uri": null,
+      "google_maps_uri": "https://maps.google.com/?cid=17876958226430614064&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "business_status": "OPERATIONAL",
+      "types": [
+        "hair_salon",
+        "nail_salon",
+        "massage_spa",
+        "tanning_studio",
+        "hair_care",
+        "massage",
+        "spa",
+        "beauty_salon",
+        "body_art_service",
+        "health",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ]
+    },
+    {
       "place_id": "ChIJRwc2obKl2EcR3ruaKUaipQ8",
       "name": "Empress Hair and Beauty Riverside",
       "address": "Unit 5, Leslie Hitchock House, 21 Minter Rd, Barking IG11 0TH",
       "lat": 51.5205827,
       "lng": 0.1077337,
       "rating": 4.9,
-      "user_rating_count": 61,
+      "user_rating_count": 62,
       "website_uri": "http://www.empresshairandbeauty.com/",
       "google_maps_uri": "https://maps.google.com/?cid=1127485703955594206&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
       "types": [
         "beauty_salon",
         "barber_shop",
-        "massage_spa",
         "nail_salon",
-        "massage",
-        "hair_care",
+        "massage_spa",
         "tanning_studio",
+        "hair_care",
+        "massage",
         "spa",
-        "health",
         "store",
-        "service",
+        "health",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -3823,11 +3884,11 @@
       "types": [
         "beauty_salon",
         "nail_salon",
-        "massage",
         "tanning_studio",
+        "massage",
         "spa",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -3907,8 +3968,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "store",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -3925,8 +3986,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -3943,8 +4004,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -3969,6 +4030,26 @@
       ]
     },
     {
+      "place_id": "ChIJE2fINiY9dkgR8IMu1V6ZxbI",
+      "name": "Face & Figure Beauty Salon",
+      "address": "46 Peplins Way, Brookmans Park, Hatfield AL9 7UU",
+      "lat": 51.724150099999996,
+      "lng": -0.20329049999999999,
+      "rating": 4.6,
+      "user_rating_count": 8,
+      "website_uri": "http://www.faceandfigureltd.co.uk/",
+      "google_maps_uri": "https://maps.google.com/?cid=12881870941745742832&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "business_status": "OPERATIONAL",
+      "types": [
+        "beauty_salon",
+        "nail_salon",
+        "tanning_studio",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
       "place_id": "ChIJfe_hWDdpdkgRjAG0xYujkMU",
       "name": "Fairy_Tanmother",
       "address": "Denham Ln, Chalfont St Peter, Gerrards Cross SL9 0ET",
@@ -3981,8 +4062,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -4035,8 +4116,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -4047,7 +4128,7 @@
       "lat": 51.6522303,
       "lng": -0.0782012,
       "rating": 4.3,
-      "user_rating_count": 44,
+      "user_rating_count": 45,
       "website_uri": "http://www.fakinit.co.uk/",
       "google_maps_uri": "https://maps.google.com/?cid=15760752087840538756&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
@@ -4089,8 +4170,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -4125,8 +4206,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -4144,8 +4225,8 @@
       "types": [
         "beauty_salon",
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -4232,6 +4313,28 @@
       ]
     },
     {
+      "place_id": "ChIJhUT8u50EdkgRN-BAMmZY6mg",
+      "name": "Georges Barbers",
+      "address": "288 Walworth Rd, London SE17 2TE",
+      "lat": 51.487131999999995,
+      "lng": -0.09540399999999999,
+      "rating": 4.5,
+      "user_rating_count": 219,
+      "website_uri": "http://georgesbarbers.com/",
+      "google_maps_uri": "https://maps.google.com/?cid=7559952120447819831&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "business_status": "OPERATIONAL",
+      "types": [
+        "barber_shop",
+        "tanning_studio",
+        "hair_salon",
+        "hair_care",
+        "health",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ]
+    },
+    {
       "place_id": "ChIJq_HIK4R0dkgRNENkLkVP50g",
       "name": "Get Bronzed with Laura",
       "address": "3a Linden Way, Shepperton TW17 8BW",
@@ -4256,27 +4359,9 @@
       "lat": 51.5346604,
       "lng": -0.1392497,
       "rating": 5,
-      "user_rating_count": 20,
+      "user_rating_count": 22,
       "website_uri": null,
       "google_maps_uri": "https://maps.google.com/?cid=15172153456208284103&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "business_status": "OPERATIONAL",
-      "types": [
-        "tanning_studio",
-        "point_of_interest",
-        "service",
-        "establishment"
-      ]
-    },
-    {
-      "place_id": "ChIJK8jEa9rxdUgRS4GwOomyQKE",
-      "name": "Ghost Aesthetics",
-      "address": "10 Furnace Parade, Crawley RH10 6NX",
-      "lat": 51.1072754,
-      "lng": -0.16840470000000002,
-      "rating": null,
-      "user_rating_count": null,
-      "website_uri": null,
-      "google_maps_uri": "https://maps.google.com/?cid=11619483341080789323&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
@@ -4338,11 +4423,11 @@
       "types": [
         "beauty_salon",
         "nail_salon",
+        "tanning_studio",
         "hair_salon",
         "hair_care",
-        "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -4359,8 +4444,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -4506,8 +4591,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -4542,8 +4627,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -4578,10 +4663,10 @@
       "business_status": "OPERATIONAL",
       "types": [
         "beauty_salon",
-        "nail_salon",
         "tanning_studio",
-        "point_of_interest",
+        "nail_salon",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -4610,7 +4695,7 @@
       "lat": 51.7299691,
       "lng": 0.47262699999999996,
       "rating": 4.9,
-      "user_rating_count": 119,
+      "user_rating_count": 120,
       "website_uri": "http://www.glowtanbeauty.co.uk/",
       "google_maps_uri": "https://maps.google.com/?cid=11753441440207297463&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
@@ -4670,7 +4755,7 @@
       "lat": 51.6055883,
       "lng": -0.187325,
       "rating": 4.7,
-      "user_rating_count": 80,
+      "user_rating_count": 82,
       "website_uri": "http://glow-tanningbeautylaser.co.uk/",
       "google_maps_uri": "https://maps.google.com/?cid=10299631402566843182&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
@@ -4766,8 +4851,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -4802,8 +4887,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -4838,8 +4923,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -4856,8 +4941,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -4874,8 +4959,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -4910,8 +4995,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -4929,8 +5014,8 @@
       "types": [
         "beauty_salon",
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -4947,14 +5032,14 @@
       "business_status": "OPERATIONAL",
       "types": [
         "beauty_salon",
-        "nail_salon",
-        "makeup_artist",
         "tanning_studio",
         "hair_salon",
+        "makeup_artist",
+        "nail_salon",
         "hair_care",
         "health",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -5098,7 +5183,7 @@
       "lat": 51.4091646,
       "lng": -0.8353468,
       "rating": 4.8,
-      "user_rating_count": 239,
+      "user_rating_count": 240,
       "website_uri": "https://hairandbeautypoetry.mytreatwell.co.uk/",
       "google_maps_uri": "https://maps.google.com/?cid=5743225709458119183&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
@@ -5148,8 +5233,8 @@
         "tanning_studio",
         "sports_activity_location",
         "health",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -5209,17 +5294,17 @@
       "types": [
         "beauty_salon",
         "skin_care_clinic",
-        "nail_salon",
         "massage_spa",
-        "tanning_studio",
+        "nail_salon",
+        "massage",
         "hair_salon",
         "hair_care",
-        "massage",
+        "tanning_studio",
         "spa",
         "medical_clinic",
         "health",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -5276,8 +5361,8 @@
         "tanning_studio",
         "nail_salon",
         "beauty_salon",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -5294,16 +5379,16 @@
       "business_status": "OPERATIONAL",
       "types": [
         "beauty_salon",
-        "skin_care_clinic",
-        "massage_spa",
-        "nail_salon",
-        "massage",
-        "hair_salon",
-        "hair_care",
         "tanning_studio",
-        "spa",
+        "hair_salon",
+        "nail_salon",
+        "hair_care",
+        "massage_spa",
+        "skin_care_clinic",
         "body_art_service",
+        "massage",
         "medical_clinic",
+        "spa",
         "health",
         "service",
         "point_of_interest",
@@ -5341,8 +5426,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -5405,13 +5490,13 @@
       "business_status": "OPERATIONAL",
       "types": [
         "beauty_salon",
-        "massage_spa",
-        "nail_salon",
-        "massage",
-        "hair_care",
         "tanning_studio",
-        "spa",
+        "nail_salon",
+        "hair_care",
+        "massage_spa",
         "body_art_service",
+        "massage",
+        "spa",
         "health",
         "service",
         "point_of_interest",
@@ -5425,7 +5510,7 @@
       "lat": 51.515577,
       "lng": -0.0691521,
       "rating": 4.2,
-      "user_rating_count": 285,
+      "user_rating_count": 295,
       "website_uri": "https://widget.treatwell.co.uk/place/heavens-salon-east-london/?utm_source=partner&utm_medium=salon-site-embedded-book-now-widget",
       "google_maps_uri": "https://maps.google.com/?cid=17263183958471659374&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
@@ -5481,8 +5566,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -5519,8 +5604,8 @@
       "google_maps_uri": "https://maps.google.com/?cid=2228898451746331142&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
       "types": [
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -5594,8 +5679,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -5612,8 +5697,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -5666,12 +5751,12 @@
       "business_status": "OPERATIONAL",
       "types": [
         "nail_salon",
-        "tanning_studio",
         "hair_salon",
         "hair_care",
+        "tanning_studio",
         "beauty_salon",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -5688,8 +5773,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -5718,7 +5803,7 @@
       "lat": 51.0053037,
       "lng": -0.9384821,
       "rating": 4.7,
-      "user_rating_count": 81,
+      "user_rating_count": 82,
       "website_uri": "http://houseofboo.net/",
       "google_maps_uri": "https://maps.google.com/?cid=3043987940891593765&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
@@ -5780,14 +5865,14 @@
       "lat": 51.4368208,
       "lng": 0.0444996,
       "rating": 5,
-      "user_rating_count": 20,
+      "user_rating_count": 21,
       "website_uri": "https://ibizaglowtanning.co.uk/",
       "google_maps_uri": "https://maps.google.com/?cid=189995691804816484&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -5833,8 +5918,8 @@
         "beauty_salon",
         "nail_salon",
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -5988,8 +6073,8 @@
         "hair_care",
         "massage",
         "store",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -6000,40 +6085,17 @@
       "lat": 51.5198895,
       "lng": -0.13123279999999998,
       "rating": 4.8,
-      "user_rating_count": 770,
+      "user_rating_count": 772,
       "website_uri": "https://www.irisavenue.com/",
       "google_maps_uri": "https://maps.google.com/?cid=16297566417682489161&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
       "types": [
         "nail_salon",
+        "tanning_studio",
         "hair_care",
-        "tanning_studio",
         "beauty_salon",
-        "service",
         "point_of_interest",
-        "establishment"
-      ]
-    },
-    {
-      "place_id": "ChIJuStQ_c4bdkgRuVeVg0jlFQ0",
-      "name": "J Beauty & Skincare",
-      "address": "17 Chapel Market, London N1 9EZ",
-      "lat": 51.53358,
-      "lng": -0.10962300000000001,
-      "rating": 5,
-      "user_rating_count": 9,
-      "website_uri": "https://booksolo.co/jbeauty-skincare",
-      "google_maps_uri": "https://maps.google.com/?cid=942911796611995577&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "business_status": "OPERATIONAL",
-      "types": [
-        "tanning_studio",
-        "beautician",
-        "massage_spa",
-        "massage",
-        "spa",
-        "beauty_salon",
         "service",
-        "point_of_interest",
         "establishment"
       ]
     },
@@ -6052,8 +6114,8 @@
         "hair_salon",
         "hair_care",
         "beauty_salon",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -6070,8 +6132,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "beauty_salon",
-        "nail_salon",
         "tanning_studio",
+        "nail_salon",
         "service",
         "point_of_interest",
         "establishment"
@@ -6116,11 +6178,11 @@
       "types": [
         "hair_salon",
         "nail_salon",
-        "hair_care",
         "tanning_studio",
+        "hair_care",
         "beauty_salon",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -6138,8 +6200,8 @@
       "types": [
         "beauty_salon",
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -6274,8 +6336,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -6312,8 +6374,8 @@
         "beauty_salon",
         "nail_salon",
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -6371,8 +6433,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -6408,8 +6470,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -6427,8 +6489,8 @@
       "types": [
         "tanning_studio",
         "beauty_salon",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -6511,30 +6573,6 @@
       ]
     },
     {
-      "place_id": "ChIJc5PJEEQRdkgRDdqSXaAzRPw",
-      "name": "Ladybirdz",
-      "address": "London NW3 7XG",
-      "lat": 51.560707,
-      "lng": -0.186385,
-      "rating": 4.7,
-      "user_rating_count": 3,
-      "website_uri": "http://www.ladybirdz.co.uk/",
-      "google_maps_uri": "https://maps.google.com/?cid=18177710759831853581&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "business_status": "OPERATIONAL",
-      "types": [
-        "nail_salon",
-        "massage_spa",
-        "tanning_studio",
-        "hair_care",
-        "massage",
-        "spa",
-        "beauty_salon",
-        "point_of_interest",
-        "service",
-        "establishment"
-      ]
-    },
-    {
       "place_id": "ChIJpe6jThRwdkgRsTDuLJqrhjU",
       "name": "Langley Tanning Salon",
       "address": "84 High St, Langley, Slough SL3 8JS",
@@ -6547,8 +6585,31 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
+        "establishment"
+      ]
+    },
+    {
+      "place_id": "ChIJo1xB8tyNdUgRj36Z3BfguQ0",
+      "name": "Laura Jane Nails and Beauty",
+      "address": "Worlds end hair and Beauty, 321 Junction Rd, Burgess Hill RH15 0PY",
+      "lat": 50.964821099999995,
+      "lng": -0.1187103,
+      "rating": 4.8,
+      "user_rating_count": 32,
+      "website_uri": "https://www.fresha.com/book-now/tlcw8k2b/services?lid=472344&eid=3357198&share=true&pId=441031",
+      "google_maps_uri": "https://maps.google.com/?cid=989067986274451087&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "business_status": "OPERATIONAL",
+      "types": [
+        "beauty_salon",
+        "nail_salon",
+        "tanning_studio",
+        "hair_salon",
+        "hair_care",
+        "beautician",
+        "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -6582,11 +6643,11 @@
       "google_maps_uri": "https://maps.google.com/?cid=2902304839270497370&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
       "types": [
-        "beautician",
         "tanning_studio",
+        "beautician",
         "beauty_salon",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -6604,28 +6665,6 @@
       "types": [
         "beauty_salon",
         "tanning_studio",
-        "service",
-        "point_of_interest",
-        "establishment"
-      ]
-    },
-    {
-      "place_id": "ChIJ3dYZyo_ZdUgRwpr-aX1V5GE",
-      "name": "Legend barber",
-      "address": "41 Chertsey Rd, Woking GU21 5AJ",
-      "lat": 51.320173999999994,
-      "lng": -0.5557734,
-      "rating": 4.8,
-      "user_rating_count": 248,
-      "website_uri": null,
-      "google_maps_uri": "https://maps.google.com/?cid=7053856913506605762&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "business_status": "OPERATIONAL",
-      "types": [
-        "barber_shop",
-        "hair_care",
-        "tanning_studio",
-        "beauty_salon",
-        "health",
         "service",
         "point_of_interest",
         "establishment"
@@ -6669,13 +6708,13 @@
       "types": [
         "beauty_salon",
         "skin_care_clinic",
+        "tanning_studio",
         "hair_salon",
         "hair_care",
-        "tanning_studio",
         "medical_clinic",
         "health",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -6692,12 +6731,12 @@
       "business_status": "OPERATIONAL",
       "types": [
         "beauty_salon",
-        "tanning_studio",
         "hair_care",
+        "tanning_studio",
         "medical_clinic",
         "health",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -6714,8 +6753,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -6732,8 +6771,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -6770,17 +6809,17 @@
         "beauty_salon",
         "skin_care_clinic",
         "barber_shop",
-        "massage_spa",
         "nail_salon",
-        "massage",
+        "massage_spa",
+        "tanning_studio",
         "hair_salon",
         "hair_care",
-        "tanning_studio",
+        "massage",
         "spa",
         "medical_clinic",
         "health",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -6815,10 +6854,10 @@
       "business_status": "OPERATIONAL",
       "types": [
         "beauty_salon",
-        "hair_care",
         "tanning_studio",
-        "service",
+        "hair_care",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -6928,12 +6967,12 @@
       "types": [
         "spa",
         "beautician",
-        "massage_spa",
-        "nail_salon",
-        "massage",
-        "hair_care",
         "tanning_studio",
+        "nail_salon",
+        "hair_care",
+        "massage_spa",
         "beauty_salon",
+        "massage",
         "medical_clinic",
         "health",
         "service",
@@ -6989,14 +7028,14 @@
       "lat": 51.3630395,
       "lng": -0.24639699999999998,
       "rating": 5,
-      "user_rating_count": 139,
+      "user_rating_count": 140,
       "website_uri": "http://www.lunatanning.co.uk/",
       "google_maps_uri": "https://maps.google.com/?cid=9383327223537336228&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -7051,16 +7090,16 @@
       "business_status": "OPERATIONAL",
       "types": [
         "beauty_salon",
-        "massage_spa",
+        "beautician",
         "tanning_studio",
         "hair_salon",
         "hair_care",
+        "massage_spa",
         "massage",
         "spa",
-        "beautician",
         "health",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -7071,7 +7110,7 @@
       "lat": 51.395237,
       "lng": 0.49721809999999994,
       "rating": 4.8,
-      "user_rating_count": 16,
+      "user_rating_count": 17,
       "website_uri": null,
       "google_maps_uri": "https://maps.google.com/?cid=226464700623058848&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
@@ -7094,8 +7133,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -7130,16 +7169,16 @@
       "business_status": "OPERATIONAL",
       "types": [
         "beauty_salon",
-        "tanning_studio",
-        "hair_salon",
         "makeup_artist",
-        "nail_salon",
-        "hair_care",
         "massage_spa",
+        "nail_salon",
         "massage",
+        "hair_salon",
+        "hair_care",
+        "tanning_studio",
         "spa",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -7156,13 +7195,13 @@
       "business_status": "OPERATIONAL",
       "types": [
         "beauty_salon",
+        "skin_care_clinic",
+        "massage_spa",
         "tanning_studio",
         "hair_care",
-        "massage_spa",
-        "skin_care_clinic",
         "massage",
-        "medical_clinic",
         "spa",
+        "medical_clinic",
         "health",
         "point_of_interest",
         "service",
@@ -7176,7 +7215,7 @@
       "lat": 51.475595999999996,
       "lng": 0.0247361,
       "rating": 5,
-      "user_rating_count": 7,
+      "user_rating_count": 8,
       "website_uri": "https://booksolo.co/madewithlove",
       "google_maps_uri": "https://maps.google.com/?cid=15767703431678740481&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
@@ -7185,8 +7224,8 @@
         "nail_salon",
         "tanning_studio",
         "beauty_salon",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -7221,8 +7260,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -7275,11 +7314,11 @@
       "business_status": "OPERATIONAL",
       "types": [
         "barber_shop",
-        "tanning_studio",
         "hair_care",
+        "tanning_studio",
         "health",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -7318,14 +7357,35 @@
       "types": [
         "nail_salon",
         "barber_shop",
+        "tanning_studio",
         "hair_salon",
         "hair_care",
-        "tanning_studio",
         "beauty_salon",
         "body_art_service",
         "health",
-        "service",
         "point_of_interest",
+        "service",
+        "establishment"
+      ]
+    },
+    {
+      "place_id": "ChIJi_Ml3uABdkgRYUPPiEvpsic",
+      "name": "Mavro Meli",
+      "address": "Mavro, Meli, 16 Parry Rd, London SE25 6RJ",
+      "lat": 51.40151540000001,
+      "lng": -0.0871616,
+      "rating": 5,
+      "user_rating_count": 11,
+      "website_uri": "http://www.mavromeli.com/",
+      "google_maps_uri": "https://maps.google.com/?cid=2860605223960789857&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "business_status": "OPERATIONAL",
+      "types": [
+        "nail_salon",
+        "tanning_studio",
+        "hair_care",
+        "beauty_salon",
+        "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -7336,7 +7396,7 @@
       "lat": 51.5143364,
       "lng": -0.1460146,
       "rating": 4.9,
-      "user_rating_count": 887,
+      "user_rating_count": 889,
       "website_uri": "https://www.mayfairaestheticsandbeauty.com/",
       "google_maps_uri": "https://maps.google.com/?cid=18405293217198216521&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
@@ -7443,15 +7503,15 @@
       "business_status": "OPERATIONAL",
       "types": [
         "gym",
-        "massage",
-        "hair_care",
         "tanning_studio",
+        "hair_care",
+        "massage",
         "beauty_salon",
         "sports_school",
         "sports_activity_location",
         "health",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -7469,11 +7529,11 @@
       "types": [
         "hair_salon",
         "nail_salon",
-        "hair_care",
         "tanning_studio",
+        "hair_care",
         "beauty_salon",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -7484,7 +7544,7 @@
       "lat": 51.611109,
       "lng": -0.278447,
       "rating": 4.7,
-      "user_rating_count": 118,
+      "user_rating_count": 117,
       "website_uri": null,
       "google_maps_uri": "https://maps.google.com/?cid=4711375690858529290&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
@@ -7492,51 +7552,6 @@
         "tanning_studio",
         "service",
         "point_of_interest",
-        "establishment"
-      ]
-    },
-    {
-      "place_id": "ChIJHU5q_VQHdkgRxo4vjY44Fdo",
-      "name": "Mihalik Ltd",
-      "address": "159 New Cross Rd, London SE14 5DG",
-      "lat": 51.475218,
-      "lng": -0.0465425,
-      "rating": null,
-      "user_rating_count": null,
-      "website_uri": null,
-      "google_maps_uri": "https://maps.google.com/?cid=15714528659684429510&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "business_status": "OPERATIONAL",
-      "types": [
-        "tanning_studio",
-        "point_of_interest",
-        "service",
-        "establishment"
-      ]
-    },
-    {
-      "place_id": "ChIJ3_46tYQDdkgRdY4crqgoOPY",
-      "name": "Milliner and Joseph",
-      "address": "Devonshire Rd, London SE23 3LX",
-      "lat": 51.443231,
-      "lng": -0.0515315,
-      "rating": 5,
-      "user_rating_count": 52,
-      "website_uri": "https://millinerandjoseph.co.uk/",
-      "google_maps_uri": "https://maps.google.com/?cid=17741975436966792821&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "business_status": "OPERATIONAL",
-      "types": [
-        "skin_care_clinic",
-        "nail_salon",
-        "massage_spa",
-        "tanning_studio",
-        "hair_care",
-        "massage",
-        "spa",
-        "beauty_salon",
-        "medical_clinic",
-        "health",
-        "point_of_interest",
-        "service",
         "establishment"
       ]
     },
@@ -7553,8 +7568,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -7565,21 +7580,21 @@
       "lat": 51.2944211,
       "lng": 0.40981249999999997,
       "rating": 4.8,
-      "user_rating_count": 73,
+      "user_rating_count": 78,
       "website_uri": "https://www.miramirabeauty.com/",
       "google_maps_uri": "https://maps.google.com/?cid=11586133937029014421&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
       "types": [
         "beauty_salon",
-        "massage_spa",
         "nail_salon",
-        "massage",
-        "hair_care",
+        "massage_spa",
         "tanning_studio",
+        "hair_care",
+        "massage",
         "spa",
         "health",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -7596,8 +7611,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "beauty_salon",
-        "nail_salon",
         "tanning_studio",
+        "nail_salon",
         "service",
         "point_of_interest",
         "establishment"
@@ -7637,15 +7652,15 @@
       "business_status": "OPERATIONAL",
       "types": [
         "beauty_salon",
-        "skin_care_clinic",
-        "nail_salon",
-        "makeup_artist",
         "tanning_studio",
+        "makeup_artist",
+        "nail_salon",
         "hair_care",
+        "skin_care_clinic",
         "medical_clinic",
         "health",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -7663,8 +7678,8 @@
       "types": [
         "tanning_studio",
         "beauty_salon",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -7681,8 +7696,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -7699,8 +7714,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -7717,8 +7732,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -7735,11 +7750,11 @@
       "business_status": "OPERATIONAL",
       "types": [
         "beauty_salon",
-        "beautician",
-        "tanning_studio",
-        "nail_salon",
-        "hair_care",
         "skin_care_clinic",
+        "nail_salon",
+        "tanning_studio",
+        "hair_care",
+        "beautician",
         "medical_clinic",
         "health",
         "point_of_interest",
@@ -7772,6 +7787,32 @@
       ]
     },
     {
+      "place_id": "ChIJYzmHwa9odkgR7_s9Nw1n-TI",
+      "name": "Montage Hair & Beauty",
+      "address": "5 Market Pl, Chalfont St Peter, Gerrards Cross SL9 9EH",
+      "lat": 51.6069658,
+      "lng": -0.5573806,
+      "rating": 4.7,
+      "user_rating_count": 19,
+      "website_uri": "https://www.facebook.com/MontageHairBeauty/",
+      "google_maps_uri": "https://maps.google.com/?cid=3673080277556394991&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "business_status": "OPERATIONAL",
+      "types": [
+        "hair_salon",
+        "massage_spa",
+        "nail_salon",
+        "massage",
+        "hair_care",
+        "tanning_studio",
+        "spa",
+        "beauty_salon",
+        "health",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
       "place_id": "ChIJ2aHAxr0cdkgRZluqyTRkv0Q",
       "name": "Muss Hair Studio",
       "address": "233 Kingsland Rd, London E2 8AN",
@@ -7783,11 +7824,11 @@
       "google_maps_uri": "https://maps.google.com/?cid=4953788293015296870&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
       "types": [
+        "tanning_studio",
         "hair_salon",
         "hair_care",
-        "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -7817,7 +7858,7 @@
       "lat": 51.53756,
       "lng": 0.079985,
       "rating": 4.5,
-      "user_rating_count": 621,
+      "user_rating_count": 628,
       "website_uri": "http://nailstationandbar.co.uk/",
       "google_maps_uri": "https://maps.google.com/?cid=14029064915841328638&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
@@ -7849,8 +7890,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "beauty_salon",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -7868,32 +7909,8 @@
       "types": [
         "nail_salon",
         "beauty_salon",
-        "service",
         "point_of_interest",
-        "establishment"
-      ]
-    },
-    {
-      "place_id": "ChIJJ2pWUTIJdkgRX6sEjndVy38",
-      "name": "Nara Aesthetics & Beauty",
-      "address": "office 120, BizSpace Wimbledon, Lombard Business Park, 8 Lombard Rd, London SW19 3TZ",
-      "lat": 51.4087429,
-      "lng": -0.1899913,
-      "rating": 5,
-      "user_rating_count": 33,
-      "website_uri": "https://www.narabeauty.co.uk/",
-      "google_maps_uri": "https://maps.google.com/?cid=9208547835061250911&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "business_status": "OPERATIONAL",
-      "types": [
-        "beauty_salon",
-        "nail_salon",
-        "tanning_studio",
-        "doctor",
-        "body_art_service",
-        "health",
-        "manufacturer",
         "service",
-        "point_of_interest",
         "establishment"
       ]
     },
@@ -7909,11 +7926,11 @@
       "google_maps_uri": "https://maps.google.com/?cid=10458686203208383932&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
       "types": [
-        "tanning_studio",
         "massage_spa",
-        "beauty_salon",
+        "tanning_studio",
         "massage",
         "spa",
+        "beauty_salon",
         "health",
         "point_of_interest",
         "service",
@@ -7933,8 +7950,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -7976,34 +7993,6 @@
         "beauty_salon",
         "nail_salon",
         "dentist",
-        "health",
-        "point_of_interest",
-        "service",
-        "establishment"
-      ]
-    },
-    {
-      "place_id": "ChIJIfRJZLi12EcRJchu5m4YbmU",
-      "name": "NC Wellbeing",
-      "address": "Nurstead Court, Nurstead Church Ln, Meopham, Gravesend DA13 9AD",
-      "lat": 51.3922708,
-      "lng": 0.3570368,
-      "rating": 5,
-      "user_rating_count": 21,
-      "website_uri": "http://www.nursteadcourt.co.uk/",
-      "google_maps_uri": "https://maps.google.com/?cid=7308806109860382757&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "business_status": "OPERATIONAL",
-      "types": [
-        "beauty_salon",
-        "skin_care_clinic",
-        "nail_salon",
-        "massage_spa",
-        "tanning_studio",
-        "hair_care",
-        "physiotherapist",
-        "massage",
-        "spa",
-        "medical_clinic",
         "health",
         "point_of_interest",
         "service",
@@ -8079,8 +8068,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -8099,11 +8088,11 @@
         "beauty_salon",
         "barber_shop",
         "nail_salon",
-        "tanning_studio",
         "hair_care",
+        "tanning_studio",
         "health",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -8142,8 +8131,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -8162,8 +8151,8 @@
         "tanning_studio",
         "clothing_store",
         "store",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -8219,7 +8208,7 @@
       "lat": 51.311094,
       "lng": -0.7759126,
       "rating": 5,
-      "user_rating_count": 225,
+      "user_rating_count": 227,
       "website_uri": "https://www.facebook.com/share/1JBhk9hnnz/?mibextid=wwXIfr",
       "google_maps_uri": "https://maps.google.com/?cid=18265426438109197361&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
@@ -8245,8 +8234,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -8257,16 +8246,16 @@
       "lat": 51.3515544,
       "lng": -0.4937690999999999,
       "rating": 5,
-      "user_rating_count": 122,
+      "user_rating_count": 123,
       "website_uri": "https://www.ohanahairandbeauty.co.uk/",
       "google_maps_uri": "https://maps.google.com/?cid=12570047503672014954&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
       "types": [
+        "tanning_studio",
         "hair_salon",
         "hair_care",
-        "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -8302,8 +8291,8 @@
       "types": [
         "tanning_studio",
         "beauty_salon",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -8399,6 +8388,33 @@
       ]
     },
     {
+      "place_id": "ChIJZ8KHKPsPdkgRY9_M1c-SkuA",
+      "name": "Peach On The Hill",
+      "address": "140 Campden Hill Rd, London W8 7AS",
+      "lat": 51.507118,
+      "lng": -0.1990275,
+      "rating": 4.8,
+      "user_rating_count": 11,
+      "website_uri": "http://www.peachonthehill.com/",
+      "google_maps_uri": "https://maps.google.com/?cid=16182157832438472547&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "business_status": "OPERATIONAL",
+      "types": [
+        "skin_care_clinic",
+        "massage_spa",
+        "tanning_studio",
+        "hair_salon",
+        "hair_care",
+        "massage",
+        "spa",
+        "beauty_salon",
+        "medical_clinic",
+        "health",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ]
+    },
+    {
       "place_id": "ChIJE07R8MbB2EcR8xvj6Nl7p4A",
       "name": "Peachy tanning",
       "address": "70 High St, Ingatestone CM4 9DW",
@@ -8447,8 +8463,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -8465,14 +8481,14 @@
       "business_status": "OPERATIONAL",
       "types": [
         "beauty_salon",
-        "massage",
-        "hair_care",
         "tanning_studio",
+        "hair_care",
+        "massage",
         "body_art_service",
         "medical_clinic",
         "health",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -8490,8 +8506,8 @@
       "types": [
         "beauty_salon",
         "nail_salon",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -8577,12 +8593,12 @@
       "business_status": "OPERATIONAL",
       "types": [
         "barber_shop",
+        "tanning_studio",
         "hair_salon",
         "hair_care",
-        "tanning_studio",
         "health",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -8599,16 +8615,16 @@
       "business_status": "OPERATIONAL",
       "types": [
         "beauty_salon",
-        "massage_spa",
         "nail_salon",
-        "massage",
-        "hair_care",
+        "massage_spa",
         "tanning_studio",
+        "hair_care",
+        "massage",
         "spa",
         "medical_clinic",
         "health",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -8633,30 +8649,6 @@
       ]
     },
     {
-      "place_id": "ChIJTfDNXCUFdkgRI-zJW1yKYzI",
-      "name": "PrettyBeaut London",
-      "address": "Union St, London SE1 0LF",
-      "lat": 51.5036956,
-      "lng": -0.09743620000000001,
-      "rating": 5,
-      "user_rating_count": 71,
-      "website_uri": "https://booksolo.co/prettybeaut-292929",
-      "google_maps_uri": "https://maps.google.com/?cid=3630897853872335907&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "business_status": "OPERATIONAL",
-      "types": [
-        "beauty_salon",
-        "skin_care_clinic",
-        "beautician",
-        "hair_care",
-        "tanning_studio",
-        "medical_clinic",
-        "health",
-        "service",
-        "point_of_interest",
-        "establishment"
-      ]
-    },
-    {
       "place_id": "ChIJAdhnGxELdkgR3LG13YzhsiY",
       "name": "Prince Tanning & Beauty",
       "address": "10 Hampton Ct Way, Molesey, East Molesey KT8 9HB",
@@ -8670,8 +8662,8 @@
       "types": [
         "tanning_studio",
         "beauty_salon",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -8708,6 +8700,24 @@
         "tanning_studio",
         "point_of_interest",
         "service",
+        "establishment"
+      ]
+    },
+    {
+      "place_id": "ChIJuVjorClxdkgR2XrD6bouHyo",
+      "name": "Profhilo - Polynucleotides - LVL Lash Lift - Lumi Eyes - Waxing - Spray Tanning - Laura’s mobile beauty treats",
+      "address": "33 Ruskin Rd, Staines-upon-Thames, Staines TW18 2PX",
+      "lat": 51.424088399999995,
+      "lng": -0.5056551,
+      "rating": 4.9,
+      "user_rating_count": 89,
+      "website_uri": "http://www.laurasmobilebeautytreats.com/",
+      "google_maps_uri": "https://maps.google.com/?cid=3035196054191700697&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "business_status": "OPERATIONAL",
+      "types": [
+        "beauty_salon",
+        "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -8770,8 +8780,34 @@
         "tanning_studio",
         "nail_salon",
         "beauty_salon",
-        "service",
         "point_of_interest",
+        "service",
+        "establishment"
+      ]
+    },
+    {
+      "place_id": "ChIJO7UBYWQFdkgR6LY7cta3Bjk",
+      "name": "Quan Spa Chelsea",
+      "address": "188 Fulham Rd., London SW10 9PN",
+      "lat": 51.486200499999995,
+      "lng": -0.18074189999999998,
+      "rating": 4.8,
+      "user_rating_count": 208,
+      "website_uri": "http://www.quanspa.co.uk/",
+      "google_maps_uri": "https://maps.google.com/?cid=4109173841689556712&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "business_status": "OPERATIONAL",
+      "types": [
+        "spa",
+        "nail_salon",
+        "massage_spa",
+        "tanning_studio",
+        "hair_care",
+        "massage",
+        "beauty_salon",
+        "medical_clinic",
+        "health",
+        "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -8789,8 +8825,8 @@
       "types": [
         "beauty_salon",
         "nail_salon",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -8829,14 +8865,14 @@
       "types": [
         "beauty_salon",
         "massage_spa",
-        "massage",
-        "hair_care",
         "tanning_studio",
+        "hair_care",
+        "massage",
         "spa",
         "medical_clinic",
         "health",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -8847,14 +8883,14 @@
       "lat": 51.375520099999996,
       "lng": -0.4084061,
       "rating": 4.9,
-      "user_rating_count": 85,
+      "user_rating_count": 86,
       "website_uri": "https://www.radiance-salon.co.uk/",
       "google_maps_uri": "https://maps.google.com/?cid=5588400611778447021&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -8943,8 +8979,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -8964,11 +9000,11 @@
         "nail_salon",
         "beauty_salon",
         "body_art_service",
+        "store",
         "medical_clinic",
         "health",
-        "store",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -8985,8 +9021,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -9033,18 +9069,18 @@
       "lat": 51.5477803,
       "lng": -0.007302799999999999,
       "rating": 4.6,
-      "user_rating_count": 781,
+      "user_rating_count": 782,
       "website_uri": "http://regencybeautylondon.com/",
       "google_maps_uri": "https://maps.google.com/?cid=1968414319904141163&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
       "types": [
         "beauty_salon",
-        "nail_salon",
         "tanning_studio",
+        "nail_salon",
         "hair_care",
         "spa",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -9060,10 +9096,10 @@
       "google_maps_uri": "https://maps.google.com/?cid=18343427535006407921&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
       "types": [
-        "barber_shop",
-        "hair_salon",
-        "hair_care",
         "tanning_studio",
+        "hair_salon",
+        "barber_shop",
+        "hair_care",
         "health",
         "service",
         "point_of_interest",
@@ -9089,29 +9125,6 @@
       ]
     },
     {
-      "place_id": "ChIJOSIsfZyxaQMRDhxv7AD4fSg",
-      "name": "Remedy Hair Extensions / Hair Loss system / Spray Tanning / Lash Lift",
-      "address": "St Albans Rd., London EN5 4LA",
-      "lat": 51.6599794,
-      "lng": -0.2055754,
-      "rating": null,
-      "user_rating_count": null,
-      "website_uri": null,
-      "google_maps_uri": "https://maps.google.com/?cid=2917760816456342542&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "business_status": "OPERATIONAL",
-      "types": [
-        "tanning_studio",
-        "hair_care",
-        "beautician",
-        "beauty_salon",
-        "medical_clinic",
-        "health",
-        "point_of_interest",
-        "service",
-        "establishment"
-      ]
-    },
-    {
       "place_id": "ChIJJ4mYnBRndkgR_K5ADK_jH-M",
       "name": "Revive Tanning & Beauty Beaconsfield",
       "address": "9 Penn Rd, Beaconsfield HP9 2PT",
@@ -9126,6 +9139,34 @@
         "tanning_studio",
         "point_of_interest",
         "service",
+        "establishment"
+      ]
+    },
+    {
+      "place_id": "ChIJCXksWAAz30cRDnhHhxExODk",
+      "name": "Rimzi Hair & Beauty",
+      "address": "Week St, Maidstone ME14 1QW",
+      "lat": 51.2744899,
+      "lng": 0.5228343999999999,
+      "rating": 4,
+      "user_rating_count": 24,
+      "website_uri": null,
+      "google_maps_uri": "https://maps.google.com/?cid=4123099410211502094&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "business_status": "OPERATIONAL",
+      "types": [
+        "tanning_studio",
+        "cosmetics_store",
+        "nail_salon",
+        "skin_care_clinic",
+        "beauty_salon",
+        "clothing_store",
+        "medical_clinic",
+        "gift_shop",
+        "spa",
+        "store",
+        "health",
+        "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -9208,8 +9249,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -9248,8 +9289,8 @@
         "tanning_studio",
         "nail_salon",
         "beauty_salon",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -9266,8 +9307,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -9302,8 +9343,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -9320,13 +9361,13 @@
       "business_status": "OPERATIONAL",
       "types": [
         "nail_salon",
-        "massage",
+        "tanning_studio",
         "hair_salon",
         "hair_care",
-        "tanning_studio",
+        "massage",
         "beauty_salon",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -9343,31 +9384,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
-        "establishment"
-      ]
-    },
-    {
-      "place_id": "ChIJF4cJvQwEdkgRBvOiozQLhnM",
-      "name": "S.Spa Industries",
-      "address": "81 Norwood Rd, London SE24 9AA",
-      "lat": 51.450707699999995,
-      "lng": -0.10048589999999999,
-      "rating": 5,
-      "user_rating_count": 1,
-      "website_uri": null,
-      "google_maps_uri": "https://maps.google.com/?cid=8324353281952510726&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "business_status": "OPERATIONAL",
-      "types": [
-        "spa",
-        "sauna",
-        "tanning_studio",
-        "beauty_salon",
-        "public_bath",
-        "health",
         "service",
-        "point_of_interest",
         "establishment"
       ]
     },
@@ -9402,6 +9420,29 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ]
+    },
+    {
+      "place_id": "ChIJr-agilqv2EcRiFf97mPn1Mw",
+      "name": "Salon H Q Hairdressing",
+      "address": "1 Manor Cl, London SE28 8EY",
+      "lat": 51.5090438,
+      "lng": 0.12170919999999999,
+      "rating": 4.6,
+      "user_rating_count": 71,
+      "website_uri": null,
+      "google_maps_uri": "https://maps.google.com/?cid=14759676295197317000&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "business_status": "OPERATIONAL",
+      "types": [
+        "tanning_studio",
+        "hair_salon",
+        "nail_salon",
+        "hair_care",
+        "beauty_salon",
+        "health",
         "service",
         "point_of_interest",
         "establishment"
@@ -9422,26 +9463,8 @@
         "tanning_studio",
         "doctor",
         "health",
-        "service",
         "point_of_interest",
-        "establishment"
-      ]
-    },
-    {
-      "place_id": "ChIJRQklVgCr2EcRo_IQcFwVIT0",
-      "name": "Savile Salon",
-      "address": "421A Crofton Rd, Locksbottom, Orpington BR6 8NL",
-      "lat": 51.3667292,
-      "lng": 0.0544444,
-      "rating": null,
-      "user_rating_count": null,
-      "website_uri": null,
-      "google_maps_uri": "https://maps.google.com/?cid=4404825397306389155&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "business_status": "OPERATIONAL",
-      "types": [
-        "tanning_studio",
         "service",
-        "point_of_interest",
         "establishment"
       ]
     },
@@ -9493,12 +9516,12 @@
       "google_maps_uri": "https://maps.google.com/?cid=14172025716024168622&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
       "types": [
+        "tanning_studio",
         "hair_salon",
         "hair_care",
-        "tanning_studio",
         "beauty_salon",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -9581,6 +9604,10 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
+        "hair_care",
+        "spa",
+        "beauty_salon",
+        "health",
         "point_of_interest",
         "service",
         "establishment"
@@ -9599,10 +9626,10 @@
       "business_status": "OPERATIONAL",
       "types": [
         "hair_salon",
-        "tanning_studio",
         "hair_care",
-        "point_of_interest",
+        "tanning_studio",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -9680,15 +9707,15 @@
       "business_status": "OPERATIONAL",
       "types": [
         "beauty_salon",
-        "massage_spa",
         "nail_salon",
-        "massage",
-        "hair_care",
+        "massage_spa",
         "tanning_studio",
+        "hair_care",
+        "massage",
         "spa",
         "health",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -9730,8 +9757,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -9767,8 +9794,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -9807,14 +9834,14 @@
       "business_status": "OPERATIONAL",
       "types": [
         "beauty_salon",
-        "massage_spa",
-        "nail_salon",
-        "massage",
-        "hair_salon",
-        "hair_care",
         "tanning_studio",
-        "spa",
+        "hair_salon",
+        "nail_salon",
+        "hair_care",
+        "massage_spa",
+        "massage",
         "medical_clinic",
+        "spa",
         "health",
         "service",
         "point_of_interest",
@@ -9834,8 +9861,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -9870,8 +9897,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -9889,16 +9916,16 @@
       "types": [
         "beauty_salon",
         "skin_care_clinic",
-        "massage_spa",
         "nail_salon",
-        "massage",
-        "hair_care",
+        "massage_spa",
         "tanning_studio",
+        "hair_care",
+        "massage",
         "spa",
         "medical_clinic",
         "health",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -9915,8 +9942,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -9934,8 +9961,8 @@
       "types": [
         "tanning_studio",
         "beauty_salon",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -9953,8 +9980,8 @@
       "types": [
         "tanning_studio",
         "beauty_salon",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -9990,8 +10017,8 @@
       "types": [
         "tanning_studio",
         "beauty_salon",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -10027,8 +10054,8 @@
       "types": [
         "tanning_studio",
         "beautician",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -10084,8 +10111,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -10103,11 +10130,11 @@
       "types": [
         "massage_spa",
         "tanning_studio",
+        "beauty_salon",
         "massage",
         "spa",
-        "beauty_salon",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -10124,8 +10151,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -10142,8 +10169,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -10196,8 +10223,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -10254,8 +10281,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -10327,16 +10354,16 @@
       "business_status": "OPERATIONAL",
       "types": [
         "skin_care_clinic",
-        "tanning_studio",
         "womens_clothing_store",
         "hair_care",
+        "tanning_studio",
         "beauty_salon",
-        "clothing_store",
-        "store",
         "medical_clinic",
+        "clothing_store",
         "health",
-        "point_of_interest",
+        "store",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -10353,8 +10380,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -10430,8 +10457,8 @@
         "tanning_studio",
         "nail_salon",
         "beauty_salon",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -10448,8 +10475,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -10466,10 +10493,10 @@
       "business_status": "OPERATIONAL",
       "types": [
         "beauty_salon",
-        "hair_care",
         "tanning_studio",
-        "service",
+        "hair_care",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -10486,8 +10513,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -10523,8 +10550,8 @@
       "types": [
         "tanning_studio",
         "beauty_salon",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -10613,8 +10640,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -10649,8 +10676,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -10776,8 +10803,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -10812,8 +10839,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -10830,8 +10857,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -10848,8 +10875,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -10866,8 +10893,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -10904,8 +10931,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "nail_salon",
         "hair_salon",
+        "nail_salon",
         "hair_care",
         "beauty_salon",
         "service",
@@ -10952,8 +10979,8 @@
         "hair_salon",
         "hair_care",
         "beauty_salon",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -10990,8 +11017,8 @@
         "tanning_studio",
         "beauty_salon",
         "store",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -11008,8 +11035,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -11026,8 +11053,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -11113,8 +11140,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -11139,6 +11166,24 @@
       ]
     },
     {
+      "place_id": "ChIJlcoCsEQieCQR2OjhoqR2xkA",
+      "name": "Sunkiss Society by Nicole",
+      "address": "30B Crown St, Brentwood CM14 4BA",
+      "lat": 51.6190116,
+      "lng": 0.3010554,
+      "rating": 5,
+      "user_rating_count": 17,
+      "website_uri": "https://www.sunkissociety.com/",
+      "google_maps_uri": "https://maps.google.com/?cid=4667548513295526104&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "business_status": "OPERATIONAL",
+      "types": [
+        "tanning_studio",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
       "place_id": "ChIJ16DXIABudkgRrFUEl3e6Png",
       "name": "SunKissed",
       "address": "142 High St, Yiewsley, West Drayton UB7 7BD",
@@ -11152,8 +11197,8 @@
       "types": [
         "tanning_studio",
         "beauty_salon",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -11230,8 +11275,8 @@
         "beauty_salon",
         "medical_clinic",
         "health",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -11272,8 +11317,8 @@
         "beauty_salon",
         "medical_clinic",
         "health",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -11326,8 +11371,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -11362,8 +11407,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -11380,8 +11425,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -11416,8 +11461,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -11434,8 +11479,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -11452,12 +11497,12 @@
       "business_status": "OPERATIONAL",
       "types": [
         "hair_salon",
-        "tanning_studio",
-        "hair_care",
         "beautician",
+        "hair_care",
+        "tanning_studio",
         "beauty_salon",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -11503,8 +11548,8 @@
       "address": "83 St Peter's St, St Albans AL1 3EG",
       "lat": 51.7547308,
       "lng": -0.336528,
-      "rating": 4.2,
-      "user_rating_count": 68,
+      "rating": 4.1,
+      "user_rating_count": 69,
       "website_uri": "https://www.thesunshineco.co.uk/locations/st-albans",
       "google_maps_uri": "https://maps.google.com/?cid=8434028810823422572&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
@@ -11546,8 +11591,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -11583,8 +11628,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "beauty_salon",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -11613,7 +11658,7 @@
       "lat": 51.5047602,
       "lng": -0.22158699999999998,
       "rating": 3.8,
-      "user_rating_count": 405,
+      "user_rating_count": 407,
       "website_uri": "https://tanandbeautyon.mytreatwell.co.uk/",
       "google_maps_uri": "https://maps.google.com/?cid=123421758255148923&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
@@ -11634,7 +11679,7 @@
       "lat": 51.105674,
       "lng": -0.1874777,
       "rating": 4.9,
-      "user_rating_count": 48,
+      "user_rating_count": 49,
       "website_uri": null,
       "google_maps_uri": "https://maps.google.com/?cid=15006495143174912408&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
@@ -11728,7 +11773,7 @@
       "lat": 51.4421806,
       "lng": -0.41344569999999997,
       "rating": 5,
-      "user_rating_count": 112,
+      "user_rating_count": 113,
       "website_uri": "https://tanboxuk.com/",
       "google_maps_uri": "https://maps.google.com/?cid=14962084254332743549&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
@@ -11736,8 +11781,8 @@
         "tanning_studio",
         "wellness_center",
         "health",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -11772,8 +11817,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -11844,8 +11889,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -11862,8 +11907,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -11880,8 +11925,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -11989,8 +12034,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -12011,27 +12056,8 @@
         "massage",
         "spa",
         "beauty_salon",
-        "service",
         "point_of_interest",
-        "establishment"
-      ]
-    },
-    {
-      "place_id": "ChIJw3SQ5_9xdkgRPBztPJxs4zs",
-      "name": "Tan Nails Designs",
-      "address": "Tan Nails Designs 112 Yiewsley, 112 High St, Yiewsley, West Drayton UB7 7BB",
-      "lat": 51.5135527,
-      "lng": -0.4728864,
-      "rating": 4.1,
-      "user_rating_count": 260,
-      "website_uri": null,
-      "google_maps_uri": "https://maps.google.com/?cid=4315412286243937340&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "business_status": "OPERATIONAL",
-      "types": [
-        "nail_salon",
-        "beauty_salon",
         "service",
-        "point_of_interest",
         "establishment"
       ]
     },
@@ -12048,8 +12074,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -12066,8 +12092,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "beauty_salon",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -12086,8 +12112,8 @@
         "nail_salon",
         "tanning_studio",
         "beauty_salon",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -12104,8 +12130,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "massage",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -12122,8 +12148,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -12140,8 +12166,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -12158,14 +12184,14 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "massage_spa",
         "nail_salon",
-        "massage",
+        "massage_spa",
         "hair_care",
+        "massage",
         "spa",
         "beauty_salon",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -12182,8 +12208,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -12200,8 +12226,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -12267,7 +12293,7 @@
       "lat": 51.539006,
       "lng": -0.116925,
       "rating": 5,
-      "user_rating_count": 8,
+      "user_rating_count": 9,
       "website_uri": "https://tangloldn.co.uk/",
       "google_maps_uri": "https://maps.google.com/?cid=14892189587170778602&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
@@ -12291,8 +12317,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -12345,8 +12371,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -12364,8 +12390,8 @@
       "types": [
         "tanning_studio",
         "beauty_salon",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -12437,8 +12463,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -12491,8 +12517,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -12528,8 +12554,8 @@
       "types": [
         "tanning_studio",
         "educational_institution",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -12570,6 +12596,27 @@
       ]
     },
     {
+      "place_id": "ChIJoY_3tdqu2EcRh-n9fyD08kY",
+      "name": "Tanning Nail Bar UK",
+      "address": "6A Bellegrove Rd, Welling DA16 3PR",
+      "lat": 51.4626783,
+      "lng": 0.10694039999999999,
+      "rating": 3.6,
+      "user_rating_count": 38,
+      "website_uri": "https://www.facebook.com/TanNailUK?fref=ts",
+      "google_maps_uri": "https://maps.google.com/?cid=5112416947442411911&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "business_status": "OPERATIONAL",
+      "types": [
+        "nail_salon",
+        "tanning_studio",
+        "hair_care",
+        "beauty_salon",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ]
+    },
+    {
       "place_id": "ChIJeVERZH8FdkgRwtGKSm5Yc6M",
       "name": "Tanning Palace",
       "address": "163 Camberwell Rd, London SE5 0HB",
@@ -12582,8 +12629,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -12594,14 +12641,14 @@
       "lat": 51.559577,
       "lng": -0.0742581,
       "rating": 4.9,
-      "user_rating_count": 209,
+      "user_rating_count": 210,
       "website_uri": null,
       "google_maps_uri": "https://maps.google.com/?cid=5012326453552195157&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -12690,8 +12737,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -12702,7 +12749,7 @@
       "lat": 51.641386,
       "lng": -0.069329,
       "rating": 4.8,
-      "user_rating_count": 89,
+      "user_rating_count": 90,
       "website_uri": "http://tanningstationenfield.co.uk/",
       "google_maps_uri": "https://maps.google.com/?cid=17179830297985664384&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
@@ -12731,8 +12778,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -12749,8 +12796,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -12815,7 +12862,7 @@
       "lat": 51.5726113,
       "lng": 0.4770483,
       "rating": 5,
-      "user_rating_count": 12,
+      "user_rating_count": 11,
       "website_uri": "http://instagram.com/tans.beauty",
       "google_maps_uri": "https://maps.google.com/?cid=1340214515923728229&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
@@ -12851,7 +12898,7 @@
       "lat": 51.3603476,
       "lng": -0.6941722,
       "rating": 5,
-      "user_rating_count": 28,
+      "user_rating_count": 27,
       "website_uri": null,
       "google_maps_uri": "https://maps.google.com/?cid=6929897636518438024&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
@@ -12859,8 +12906,8 @@
         "nail_salon",
         "tanning_studio",
         "beauty_salon",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -12895,8 +12942,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -12931,8 +12978,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -13005,8 +13052,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -13017,7 +13064,7 @@
       "lat": 51.4918645,
       "lng": -0.0454379,
       "rating": 4.6,
-      "user_rating_count": 70,
+      "user_rating_count": 71,
       "website_uri": null,
       "google_maps_uri": "https://maps.google.com/?cid=10795059289630551167&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
@@ -13077,8 +13124,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -13095,8 +13142,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -13113,16 +13160,16 @@
       "business_status": "OPERATIONAL",
       "types": [
         "beauty_salon",
-        "tanning_studio",
-        "nail_salon",
-        "hair_care",
         "skin_care_clinic",
+        "nail_salon",
         "massage",
-        "medical_clinic",
+        "hair_care",
+        "tanning_studio",
         "spa",
+        "medical_clinic",
         "health",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -13157,8 +13204,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -13175,8 +13222,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -13193,8 +13240,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -13211,8 +13258,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -13229,8 +13276,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -13247,8 +13294,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -13266,20 +13313,20 @@
       "types": [
         "tanning_studio",
         "fitness_center",
+        "nail_salon",
         "massage_spa",
         "gym",
-        "nail_salon",
-        "massage",
         "hair_care",
+        "massage",
         "spa",
         "beauty_salon",
         "sports_school",
         "sports_activity_location",
-        "health",
         "school",
         "educational_institution",
-        "service",
+        "health",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -13336,13 +13383,13 @@
       "business_status": "OPERATIONAL",
       "types": [
         "beauty_salon",
-        "skin_care_clinic",
         "tanning_studio",
         "hair_care",
+        "skin_care_clinic",
         "medical_clinic",
         "health",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -13360,8 +13407,8 @@
       "types": [
         "beauty_salon",
         "tanning_studio",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -13379,11 +13426,11 @@
       "types": [
         "beauty_salon",
         "nail_salon",
-        "tanning_studio",
         "hair_salon",
         "hair_care",
-        "point_of_interest",
+        "tanning_studio",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -13497,11 +13544,11 @@
       "business_status": "OPERATIONAL",
       "types": [
         "beauty_salon",
+        "tanning_studio",
         "hair_salon",
         "hair_care",
-        "tanning_studio",
-        "supplier",
         "service",
+        "supplier",
         "point_of_interest",
         "establishment"
       ]
@@ -13513,7 +13560,7 @@
       "lat": 51.572609299999996,
       "lng": -0.1980582,
       "rating": 4.9,
-      "user_rating_count": 133,
+      "user_rating_count": 134,
       "website_uri": "https://www.glocompany.co.uk/",
       "google_maps_uri": "https://maps.google.com/?cid=12278304275930465984&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
@@ -13539,8 +13586,8 @@
       "types": [
         "tanning_studio",
         "beauty_salon",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -13576,8 +13623,8 @@
       "types": [
         "tanning_studio",
         "beauty_salon",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -13617,8 +13664,8 @@
         "hair_salon",
         "hair_care",
         "beauty_salon",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -13656,13 +13703,13 @@
         "beauty_salon",
         "skin_care_clinic",
         "nail_salon",
-        "massage",
-        "hair_care",
         "tanning_studio",
+        "hair_care",
+        "massage",
         "medical_clinic",
         "health",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -13679,13 +13726,13 @@
       "business_status": "OPERATIONAL",
       "types": [
         "beauty_salon",
+        "tanning_studio",
         "nail_salon",
         "massage_spa",
-        "tanning_studio",
         "massage",
         "spa",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -13728,8 +13775,8 @@
       "types": [
         "tanning_studio",
         "massage",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -13803,8 +13850,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -13822,8 +13869,8 @@
       "types": [
         "tanning_studio",
         "beauty_salon",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -13855,6 +13902,25 @@
       ]
     },
     {
+      "place_id": "ChIJTTMHS6Kr2EcRIJQk_WT4DOM",
+      "name": "The Spray Tan Artist",
+      "address": "Oxhawth Cres, Bromley BR2 8BL",
+      "lat": 51.3878376,
+      "lng": 0.0597341,
+      "rating": 5,
+      "user_rating_count": 47,
+      "website_uri": "https://booksolo.co/lou-the-spray-tan-artist?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZnRzaARoh69leHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAadsuenib5upjCPIMNV2R9w9miaiS4GXyV4N6PHr23qZSrgZBF-xzLKSCKCRYQ_aem_uDRZ4WrzeQyMXcwMVjeUUg",
+      "google_maps_uri": "https://maps.google.com/?cid=16360724658957620256&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "business_status": "OPERATIONAL",
+      "types": [
+        "beauty_salon",
+        "beautician",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ]
+    },
+    {
       "place_id": "ChIJqdKL9P9L30cRGAZu7h0JD0k",
       "name": "The Spray Tanning Studio",
       "address": "Rhododendron Ave, Meopham, Gravesend DA13 0TU",
@@ -13867,8 +13933,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -13885,8 +13951,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -13903,8 +13969,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -13921,8 +13987,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -13933,7 +13999,7 @@
       "lat": 51.418370800000005,
       "lng": 0.39577829999999997,
       "rating": 5,
-      "user_rating_count": 27,
+      "user_rating_count": 28,
       "website_uri": null,
       "google_maps_uri": "https://maps.google.com/?cid=1191196826870093861&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
@@ -13958,8 +14024,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -14137,8 +14203,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -14209,8 +14275,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -14227,8 +14293,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -14263,8 +14329,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -14275,7 +14341,7 @@
       "lat": 51.7355066,
       "lng": 0.4665238,
       "rating": 4.3,
-      "user_rating_count": 64,
+      "user_rating_count": 65,
       "website_uri": "https://www.thesunshineco.co.uk/shop-locations/chelmsford/",
       "google_maps_uri": "https://maps.google.com/?cid=10032070190137943471&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
@@ -14299,8 +14365,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -14374,8 +14440,8 @@
       "types": [
         "tanning_studio",
         "hair_care",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -14392,8 +14458,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -14428,8 +14494,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -14446,8 +14512,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -14476,14 +14542,14 @@
       "lat": 51.425138499999996,
       "lng": 0.10492929999999999,
       "rating": 5,
-      "user_rating_count": 18,
+      "user_rating_count": 19,
       "website_uri": "https://tanningexperience.co.uk/",
       "google_maps_uri": "https://maps.google.com/?cid=7230924943856747897&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
       "types": [
         "beauty_salon",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -14541,8 +14607,8 @@
       "types": [
         "tanning_studio",
         "beauty_salon",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -14559,8 +14625,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -14631,8 +14697,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -14667,8 +14733,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -14739,8 +14805,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -14751,7 +14817,7 @@
       "lat": 51.383725999999996,
       "lng": 0.5222608,
       "rating": 4.7,
-      "user_rating_count": 104,
+      "user_rating_count": 105,
       "website_uri": "https://thetanningshop.co.uk/location/chatham/?utm_source=google&utm_medium=organic&utm_campaign=gbp-listing",
       "google_maps_uri": "https://maps.google.com/?cid=10882852725637276816&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
@@ -14824,7 +14890,7 @@
       "lng": -0.1341466,
       "rating": 4.3,
       "user_rating_count": 173,
-      "website_uri": "https://thetanningshop.co.uk/location/clapham-high-street/",
+      "website_uri": "https://thetanningshop.co.uk/location/clapham-high-street/?utm_source=google&utm_medium=organic&utm_campaign=gbp-listing",
       "google_maps_uri": "https://maps.google.com/?cid=17334051296591549178&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
       "types": [
@@ -14841,7 +14907,7 @@
       "lat": 51.464045999999996,
       "lng": -0.166566,
       "rating": 4.1,
-      "user_rating_count": 120,
+      "user_rating_count": 121,
       "website_uri": "https://thetanningshop.co.uk/location/clapham/?utm_source=google&utm_medium=organic&utm_campaign=gbp-listing",
       "google_maps_uri": "https://maps.google.com/?cid=5305323770554347284&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
@@ -14883,8 +14949,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -14901,8 +14967,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -14919,8 +14985,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -14955,8 +15021,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -15009,8 +15075,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -15093,7 +15159,7 @@
       "lat": 51.500983,
       "lng": -0.194547,
       "rating": 4.1,
-      "user_rating_count": 74,
+      "user_rating_count": 75,
       "website_uri": "https://thetanningshop.co.uk/location/kensington/?utm_source=google&utm_medium=organic&utm_campaign=gbp-listing",
       "google_maps_uri": "https://maps.google.com/?cid=9764467883835485658&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
@@ -15117,8 +15183,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -15135,8 +15201,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -15171,8 +15237,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -15273,7 +15339,7 @@
       "lat": 51.464520799999995,
       "lng": -0.3018038,
       "rating": 4.3,
-      "user_rating_count": 59,
+      "user_rating_count": 58,
       "website_uri": "https://thetanningshop.co.uk/location/richmond/?utm_source=google&utm_medium=organic&utm_campaign=gbp-listing",
       "google_maps_uri": "https://maps.google.com/?cid=4770276436433299073&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
@@ -15309,14 +15375,14 @@
       "lat": 51.362757099999996,
       "lng": -0.0971094,
       "rating": 4.3,
-      "user_rating_count": 95,
+      "user_rating_count": 96,
       "website_uri": "https://thetanningshop.co.uk/location/south-croydon/?utm_source=google&utm_medium=organic&utm_campaign=gbp-listing",
       "google_maps_uri": "https://maps.google.com/?cid=17535652113824113575&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -15351,8 +15417,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -15369,8 +15435,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -15387,8 +15453,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -15399,7 +15465,7 @@
       "lat": 51.497393200000005,
       "lng": -0.1445638,
       "rating": 4.3,
-      "user_rating_count": 83,
+      "user_rating_count": 84,
       "website_uri": "https://thetanningshop.co.uk/location/victoria-belgravia/?utm_source=google&utm_medium=organic&utm_campaign=gbp-listing",
       "google_maps_uri": "https://maps.google.com/?cid=6601407249815323046&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
@@ -15441,8 +15507,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -15459,8 +15525,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -15480,8 +15546,8 @@
         "massage",
         "beauty_salon",
         "health",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -15498,8 +15564,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "beauty_salon",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -15510,17 +15576,17 @@
       "lat": 51.5761107,
       "lng": -0.4262956,
       "rating": 4.9,
-      "user_rating_count": 395,
+      "user_rating_count": 397,
       "website_uri": "http://www.31hairtanbeauty.com/",
       "google_maps_uri": "https://maps.google.com/?cid=16435333615634076033&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
       "types": [
+        "tanning_studio",
         "hair_salon",
         "hair_care",
-        "tanning_studio",
         "beauty_salon",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -15555,8 +15621,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -15628,8 +15694,8 @@
       "types": [
         "tanning_studio",
         "beauty_salon",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -15683,8 +15749,8 @@
       "types": [
         "tanning_studio",
         "beauty_salon",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -15713,7 +15779,7 @@
       "lat": 50.9709499,
       "lng": 0.2496,
       "rating": 5,
-      "user_rating_count": 288,
+      "user_rating_count": 289,
       "website_uri": "https://www.trutan.co.uk/",
       "google_maps_uri": "https://maps.google.com/?cid=12294211983807624799&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
@@ -15861,8 +15927,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -15904,14 +15970,14 @@
       "business_status": "OPERATIONAL",
       "types": [
         "beauty_salon",
-        "massage_spa",
         "nail_salon",
-        "massage",
-        "hair_care",
+        "massage_spa",
         "tanning_studio",
+        "hair_care",
+        "massage",
         "spa",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -15947,8 +16013,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -15977,7 +16043,7 @@
       "lat": 51.493535400000006,
       "lng": -0.1444508,
       "rating": 4.8,
-      "user_rating_count": 254,
+      "user_rating_count": 255,
       "website_uri": "http://www.7victoriasalon.com/?utm_source=google&utm_medium=business&utm_campaign=search&utm_id=GMB",
       "google_maps_uri": "https://maps.google.com/?cid=11784935273495186564&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
@@ -16021,8 +16087,8 @@
       "address": "Unit 34b, The Mercury Shopping Centre, Romford RM1 3EE",
       "lat": 51.5798493,
       "lng": 0.18580149999999998,
-      "rating": 4.4,
-      "user_rating_count": 245,
+      "rating": 4.5,
+      "user_rating_count": 246,
       "website_uri": "https://www.vidahairandbeauty.co.uk/",
       "google_maps_uri": "https://maps.google.com/?cid=8016761578398083943&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
@@ -16050,8 +16116,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -16088,8 +16154,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -16107,8 +16173,8 @@
       "types": [
         "hair_care",
         "beauty_salon",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -16119,7 +16185,7 @@
       "lat": 51.3846302,
       "lng": 0.5230888,
       "rating": 5,
-      "user_rating_count": 33,
+      "user_rating_count": 34,
       "website_uri": "http://www.weretanning.com/",
       "google_maps_uri": "https://maps.google.com/?cid=2064246082767756005&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "business_status": "OPERATIONAL",
@@ -16149,6 +16215,34 @@
       ]
     },
     {
+      "place_id": "ChIJ50mR2AhzdkgR6yXFCf40IFo",
+      "name": "Wink Spa - Hair, Beauty & Laser",
+      "address": "521 Staines Rd, Feltham TW14 8BP",
+      "lat": 51.4529267,
+      "lng": -0.4306174,
+      "rating": 4.5,
+      "user_rating_count": 194,
+      "website_uri": "http://www.winkspa.co.uk/",
+      "google_maps_uri": "https://maps.google.com/?cid=6494248928358508011&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "business_status": "OPERATIONAL",
+      "types": [
+        "beauty_salon",
+        "tanning_studio",
+        "hair_salon",
+        "nail_salon",
+        "hair_care",
+        "massage_spa",
+        "skin_care_clinic",
+        "massage",
+        "medical_clinic",
+        "spa",
+        "health",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
       "place_id": "ChIJLQuKL4uf2EcROoxhrIvfZYQ",
       "name": "XEN Mobile Spray Tanning",
       "address": "34 Skarnings Ct, Waltham Abbey EN9 3HE",
@@ -16162,8 +16256,8 @@
       "types": [
         "tanning_studio",
         "beauty_salon",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -16202,8 +16296,8 @@
       "business_status": "OPERATIONAL",
       "types": [
         "tanning_studio",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     }
